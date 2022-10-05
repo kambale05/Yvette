@@ -1,0 +1,187 @@
+{
+
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#h1ba{
+
+color: red;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+
+}
+P{
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:pink;
+}
+.maindiv{
+    background-color:greenyellow;
+    width: 80%;
+    margin-left: 15%;
+    padding: 5px;
+}
+.img{
+    width: 300px;
+    height: 100px;
+}
+.sidediv{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+
+
+    }
+
+
+ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:red;
+    font-size: large;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    background-color: black;
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 100px;
+    margin-left: 10%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%S)       
+}
+ol li{
+    display: inline-table;
+    margin: 10px;
+    color: red;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
+
+ul li li ul{
+
+display:inline-table;
+
+
+
+}
+ul li:hover ul li{
+    display: block;
+}
+
+ol li ol li:hover{
+    display: block;
+
+}
+.p{
+    display: block}
+
+    div.sample{
+        background-color: blue;
+
+    width: 200px;
+    height: 100px;
+    float: left;
+    }
+
+    div.a{
+        background-color: blue;
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        float:left
+    }
+
+    div.b{
+        background-color:yellow;
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        float: left;
+    }
+
+    div.c{
+        background-color:red;
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        float:left
+    }
+    .img{
+
+        height: 100px;
+        width: 400px;
+    }
+    .para{
+
+border: 2px solid black;
+margin-bottom: 10px;
+
+    }
+    .img{
+        width: 400px;
+        height: 100px;
+        float: right;
+        margin-right: 20px;
+    }
+    div.p{
+
+        border: 10 px;border: solid;
+        margin-bottom: 50 px;
+        padding: 40px;
+        height: 200px;
+        
+
+
+    }
+    ul{
+
+        width: 300px;
+        list-style-type: none;
+        padding: 0px;
+    
+    }
+li{
+    margin-bottom: 10px;
+}
+    
+        li a {
+            background-color: azure;
+            color: brown;
+            text-decoration: none;
+            text-align: center;
+            display: block;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+        }
+        
+        
+    
+    li a:hover{
+        background-color: blue;
+        color: brown;
+        display: block;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+    }
+.active{
+    background-color: blueviolet;
+    color:red;
+}
+
+div.parent{
+    float: left;
+}
+
+div.menu{
+float: left;
+margin-right: 20px;
+
+    
+}
